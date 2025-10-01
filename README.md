@@ -109,7 +109,7 @@ Next run will show: `Loaded state from data.vcm`
 - **Build & Compilation:** `javac` / Command-line
 - **Version:** Java 25 LTS  
 - **Platform:** Cross-platform (any system with Java installed)
-- 
+  
 ## ⚙️ Prerequisites
 - **Java Development Kit (JDK) 8 or later** installed  
   - Any LTS version recommended (e.g., 8, 11, 17, 25)  
