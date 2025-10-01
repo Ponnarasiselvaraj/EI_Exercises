@@ -75,7 +75,7 @@ Running `Main.java` produces outputs like:
 
 ## 🖼️ Sample Output
 
-   <img width="415" height="92" alt="image" src="https://github.com/user-attachments/assets/6c489470-a538-4ed0-9ba1-2bcb2ade8952" />
+      <img width="415" height="92" alt="image" src="https://github.com/user-attachments/assets/6c489470-a538-4ed0-9ba1-2bcb2ade8952" />
 
 
 ---
@@ -90,7 +90,7 @@ Running `Main.java` produces outputs like:
 ## 🖼️ Sample Output
   - Being able to recall all the data even after you kill the terminal or restart the program
 
-  <img width="667" height="836" alt="image" src="https://github.com/user-attachments/assets/7fb3806f-c233-453c-b5a0-59265b165b0a" />
+     <img width="667" height="836" alt="image" src="https://github.com/user-attachments/assets/7fb3806f-c233-453c-b5a0-59265b165b0a" />
 
 
 
