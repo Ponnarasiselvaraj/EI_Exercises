@@ -57,9 +57,9 @@ A **command-line tool** to manage virtual classrooms with **students, assignment
 
 ## 🎯 Why This Project?
 
-This project focuses on enhancing digital learning by simplifying classroom management.  
-It tackles real-world educational challenges like organizing students, assignments, and attendance, while providing a reliable, scalable, and practical system.  
-By applying design patterns in a functional application, it bridges theory with real-world impact, showcasing how thoughtful software can improve learning experiences.
+- This project focuses on enhancing digital learning by simplifying classroom management.  
+- It tackles real-world educational challenges like organizing students, assignments, and attendance, while providing a reliable, scalable, and practical system.  
+- By applying design patterns in a functional application, it bridges theory with real-world impact, showcasing how thoughtful software can improve learning experiences.
 
 
 ## Available Commands
