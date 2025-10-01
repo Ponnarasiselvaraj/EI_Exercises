@@ -1,4 +1,4 @@
-package exercise1.creational.factory;
+package creational.factory;
 
 public interface FileExporter {
     void export(String content);
