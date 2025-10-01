@@ -27,7 +27,10 @@ Running `Main.java` produces outputs like:
   <img width="500" height="317" alt="image" src="https://github.com/user-attachments/assets/2c1096f4-8117-4aa2-a440-557f7edcbfad" />
 
 
-- **Add Student**  
+- **Add Student**
+
+  <img width="450" height="56" alt="image" src="https://github.com/user-attachments/assets/9d74ad89-2433-45c8-9ae1-5230147626b1" />
+
  
 
 - **Mark Attendance**  
