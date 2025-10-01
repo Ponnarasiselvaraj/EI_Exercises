@@ -1,4 +1,4 @@
-package exercise1.behavioural.strategy;
+package behavioural.strategy;
 
 public class StandardQualityStrategy implements VideoQualityStrategy {
     @Override
