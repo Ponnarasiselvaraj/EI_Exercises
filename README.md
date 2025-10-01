@@ -12,14 +12,10 @@ This exercise showcases six canonical design patterns, grouped by category.
 ### 1.1 Singleton
 - Ensures a single instance of a class.  
 - **Use Case:** `Clipboard` — manages copy/paste operations.
-<img width="641" height="196" alt="image" src="https://github.com/user-attachments/assets/29e06f4a-63a1-4c06-8693-71d487aa8099" />
-
 
 ### 1.2 Factory Method
 - Creates objects without exposing the instantiation logic.  
 - **Use Case:** `FileFactory` — produces `PdfFile`, `DocxFile`, or `TxtFile` exporters.
-<img width="475" height="86" alt="image" src="https://github.com/user-attachments/assets/7cff0116-7f37-4a5b-8109-882c13861a85" />
-
 
 ---
 
@@ -58,6 +54,13 @@ java Main
 # 🏫 Exercise 2 — Virtual Classroom Manager (VCM)
 
 A **command-line tool** to manage virtual classrooms with **students, assignments, attendance, analytics, and persistence**.
+
+## 🎯 Why This Project?
+
+This project focuses on enhancing digital learning by simplifying classroom management.  
+It tackles real-world educational challenges like organizing students, assignments, and attendance, while providing a reliable, scalable, and practical system.  
+By applying design patterns in a functional application, it bridges theory with real-world impact, showcasing how thoughtful software can improve learning experiences.
+
 
 ## Available Commands
 - `add_classroom <name>` — create a classroom  
