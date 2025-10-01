@@ -20,3 +20,9 @@ This allows system upgrades without rewriting old code.
 - `OldAttendanceRecord.java` – Legacy attendance format.
 - `NewBiometricRecord.java` – New biometric attendance format.
 - `AttendanceAdapter.java` – Adapter that integrates the old system with the new.
+
+  ## 🖼️ Sample Output
+Running `Main.java` produces outputs like:
+
+<img width="331" height="241" alt="image" src="https://github.com/user-attachments/assets/5b5ebc73-c461-4c0b-a832-a65053a10d18" />
+
