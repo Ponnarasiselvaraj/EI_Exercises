@@ -23,4 +23,5 @@ This ensures real-time updates to drivers without tightly coupling them to the r
 - 
 ## 🖼️ Sample Output
 When you run `Main.java`, you will see notifications like this:
+<img width="638" height="267" alt="image" src="https://github.com/user-attachments/assets/fa080af0-b0ba-48d9-9211-9bc5eafe7d09" />
 
