@@ -119,3 +119,26 @@ class 12-A
 > exit
 ```
 Next run will show: `Loaded state from data.vcm`
+
+## 🔄 Command Flow Diagram (**dynamic flow**)
+
+```text
++---------+        +---------+        +-------------------+        +-------------------+        +---------------------+
+|  User   | -----> |  Main   | -----> |      Parser       | -----> |        VCM        | -----> |   Persistence Layer |
++---------+        +---------+        +-------------------+        +-------------------+        +---------------------+
+    |                   |                     |                         |                              |
+    | "add_student ..." |                     | parse + validate        | execute business logic       | save state
+    |------------------>|                     |------------------------>|----------------------------->| write data.vcm
+    |                   |                     |                         |                              | create data.vcm.bak
+    | "unknown command" | <------------------------------------------------------------ error msg      |
+    | "help" ---------->|                     |                         |                              |
+    |                   |                     |                         |                              |
+    v                   v                     v                         v                              v
+  Output <---------- Parsed result <---- Validated Command <---- State updated <---- Data saved + backup
+
+                                +-------------------+
+                                |   data.vcm        |  <-- main state file (auto-saved & loaded)
+                                +-------------------+
+                                |   data.vcm.bak    |  <-- backup file (recovery if crash/corrupt)
+                                +-------------------+
+
