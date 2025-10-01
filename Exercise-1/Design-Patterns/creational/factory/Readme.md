@@ -22,3 +22,9 @@ This centralizes object creation and makes the system flexible for future file t
 - `PdfFile.java` – Concrete product for PDF.
 - `DocxFile.java` – Concrete product for DOCX.
 - `TxtFile.java` – Concrete product for TXT.
+
+## 🖼️ Sample Output
+Running `Main.java` produces outputs like:
+
+<img width="460" height="82" alt="image" src="https://github.com/user-attachments/assets/45b3595c-deaa-4b36-b4af-2fe97be4d0a1" />
+
