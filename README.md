@@ -91,11 +91,12 @@ java VirtualClassroom.Main
 
 ### Example Session
 ```bash
-> add_classroom Math101
-> add_student S01 Math101
-> list_students Math101
-S01
+> add_classroom 12-A
+> add_student 101 12-A
+> list_students 12-A
+101
 > view_analytics
+  
 > exit
 ```
 Next run will show: `Loaded state from data.vcm`
