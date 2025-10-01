@@ -19,11 +19,50 @@ A **command-line Virtual Classroom Manager (VCM)** that simulates classroom oper
 
 ---
 
+## 🖼️ Sample Output
+Running `Main.java` produces outputs like:
+
+- **Add Classroom**
+
+  <img width="500" height="317" alt="image" src="https://github.com/user-attachments/assets/2c1096f4-8117-4aa2-a440-557f7edcbfad" />
+
+
+- **Add Student**  
+ 
+
+- **Mark Attendance**  
+  
+
+- **Assign Work**  
+ 
+
+- **Submit Assignment**  
+  
+
+- **List Classrooms**  
+  
+
+- **List Students**  
+  
+
+- **View Analytics**  
+  
+
+- **Help Command**  
+  
+
+- **Exit**  
+  
+
 ## ⚠️ Error Handling
 - Wrong usage example:  
   `add_student 1` → prints: `Usage: add_student <studentId> <className>`  
 - Unknown command example:  
   `add_std` → prints: `Unknown command. Type 'help'.`
+
+## 🖼️ Sample Output
+
+
 
 ---
 
@@ -33,6 +72,10 @@ A **command-line Virtual Classroom Manager (VCM)** that simulates classroom oper
   - If `data.vcm` exists → prints: `Loaded state from data.vcm`  
   
 - Data auto-saves on every exit or update.
+
+## 🖼️ Sample Output
+
+
 
 ---
 
