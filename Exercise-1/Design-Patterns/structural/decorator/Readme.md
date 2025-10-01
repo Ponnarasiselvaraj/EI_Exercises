@@ -25,3 +25,11 @@ This allows flexible combinations of features in an exam system.
 - `ProctoringDecorator.java` – Adds proctoring functionality.
 - `NegativeMarkingDecorator.java` – Adds negative marking functionality.
 - `OnlineExam.java` – Concrete base exam implementation.
+
+## 🖼️ Sample Output
+Running `Main.java` produces outputs like:
+
+<img width="450" height="67" alt="image" src="https://github.com/user-attachments/assets/cfaddbc6-136a-494f-956d-8f2b6a559a09" />
+
+
+
