@@ -111,8 +111,7 @@ Next run will show: `Loaded state from data.vcm`
 ## ⚙️ Prerequisites
 - **Java Development Kit (JDK) 8 or later** installed  
   - Any LTS version recommended (e.g., 8, 11, 17, 25)  
-- **Command-line / Terminal** access  
-- Basic familiarity with Java syntax (classes, objects, interfaces)  
+- **Command-line / Terminal** access   
 - Optional: IDE like IntelliJ IDEA, Eclipse, or VS Code
 
 ## 📫 Contact
