@@ -1,4 +1,4 @@
-package exercise1.creational.factory;
+package creational.factory;
 
 public class FileFactory {
     public enum Format { TXT, PDF, DOCX }
