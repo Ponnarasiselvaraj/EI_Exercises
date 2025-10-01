@@ -1,4 +1,4 @@
-package exercise1.structural.decorator;
+package structural.decorator;
 
 public class NegativeMarkingDecorator extends ExamDecorator {
     private final double penalty;
