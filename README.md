@@ -104,7 +104,8 @@ Next run will show: `Loaded state from data.vcm`
 
 ## 🛠️ Tech Stack
 - **Language:** Java  
-- **Build & Compilation:** `javac` / Command-line     
+- **Build & Compilation:** `javac` / Command-line
+- **Version:** Java 25 LTS  
 - **Platform:** Cross-platform (any system with Java installed)  
 
 ## 📫 Contact
