@@ -1,4 +1,4 @@
-package exercise1.behavioural.observer;
+package behavioural.observer;
 
 public class Driver implements Observer {
     private final String name;
