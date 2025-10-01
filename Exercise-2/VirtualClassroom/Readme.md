@@ -107,7 +107,7 @@ Example session:
 
 ```bash
 > add_classroom 12-A
-> add_student 101
+> add_student 101 12-A
 > list_students 12-A
 101
 > view_analytics
