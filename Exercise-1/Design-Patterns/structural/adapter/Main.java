@@ -1,4 +1,4 @@
-package exercise1.structural.adapter;
+package structural.adapter;
 
 public class Main {
     public static void main(String[] args) {
