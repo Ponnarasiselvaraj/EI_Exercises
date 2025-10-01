@@ -1,4 +1,4 @@
-package exercise1.creational.singleton;
+package creational.singleton;
 
 public class Clipboard {
     private static volatile Clipboard instance;
