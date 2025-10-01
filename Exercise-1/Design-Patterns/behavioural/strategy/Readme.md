@@ -28,6 +28,7 @@ This makes it easy to switch between video quality strategies at runtime without
 
 ## 🖼️ Sample Output
 Running `Main.java` produces output showing which video quality is selected:
+
 <img width="425" height="88" alt="image" src="https://github.com/user-attachments/assets/455a312d-36da-40a2-9a09-cf73aa539497" />
 
 
