@@ -75,7 +75,8 @@ Running `Main.java` produces outputs like:
 
 ## 🖼️ Sample Output
 
-      <img width="415" height="92" alt="image" src="https://github.com/user-attachments/assets/6c489470-a538-4ed0-9ba1-2bcb2ade8952" />
+  <img width="402" height="100" alt="image" src="https://github.com/user-attachments/assets/7a7d2c07-b69c-4c4d-b202-625b1f29d442" />
+
 
 
 ---
