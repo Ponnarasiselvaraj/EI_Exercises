@@ -29,7 +29,8 @@ This allows flexible combinations of features in an exam system.
 ## 🖼️ Sample Output
 Running `Main.java` produces outputs like:
 
-<img width="550" height="67" alt="image" src="https://github.com/user-attachments/assets/cfaddbc6-136a-494f-956d-8f2b6a559a09" />
+<img width="585" height="67" alt="image" src="https://github.com/user-attachments/assets/ae621bde-7138-48b3-bf89-fe919701a585" />
+
 
 
 
