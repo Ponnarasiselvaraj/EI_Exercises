@@ -1,4 +1,4 @@
-package exercise1.behavioural.strategy;
+package behavioural.strategy;
 
 public class Main {
     public static void main(String[] args) {
