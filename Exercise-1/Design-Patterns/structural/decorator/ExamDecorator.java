@@ -1,4 +1,4 @@
-package exercise1.structural.decorator;
+package structural.decorator;
 
 public abstract class ExamDecorator implements OnlineExam {
     protected final OnlineExam exam;
