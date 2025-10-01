@@ -102,5 +102,16 @@ Next run will show: `Loaded state from data.vcm`
 
 ---
 
+## 🛠️ Tech Stack
+- **Language:** Java  
+- **Build & Compilation:** `javac` / Command-line     
+- **Platform:** Cross-platform (any system with Java installed)  
+
+## 📫 Contact
+- **Name:** Ponnarasi Selvaraj  
+- **Email:** ponnarasiselvaraj20@gmail.com  
+- **GitHub:** [https://github.com/Ponnarasiselvaraj](https://github.com/Ponnarasiselvaraj)
+
+
 
 
