@@ -88,8 +88,10 @@ Running `Main.java` produces outputs like:
 - Data auto-saves on every exit or update.
 
 ## 🖼️ Sample Output
+  - Being able to recall all the data even after you kill the terminal or restart the program
 
-  <img width="762" height="420" alt="image" src="https://github.com/user-attachments/assets/fc3cbffd-6938-423f-9ea0-f1851f6b01c3" />
+  <img width="667" height="836" alt="image" src="https://github.com/user-attachments/assets/7fb3806f-c233-453c-b5a0-59265b165b0a" />
+
 
 
 ---
