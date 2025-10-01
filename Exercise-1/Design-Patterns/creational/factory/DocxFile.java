@@ -1,4 +1,4 @@
-package exercise1.creational.factory;
+package creational.factory;
 
 public class DocxFile implements FileExporter {
     @Override
