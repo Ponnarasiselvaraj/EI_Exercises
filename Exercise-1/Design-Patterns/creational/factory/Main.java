@@ -1,4 +1,4 @@
-package exercise1.creational.factory;
+package creational.factory;
 
 public class Main {
     public static void main(String[] args) {
