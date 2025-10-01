@@ -106,7 +106,14 @@ Next run will show: `Loaded state from data.vcm`
 - **Language:** Java  
 - **Build & Compilation:** `javac` / Command-line
 - **Version:** Java 25 LTS  
-- **Platform:** Cross-platform (any system with Java installed)  
+- **Platform:** Cross-platform (any system with Java installed)
+- 
+## ⚙️ Prerequisites
+- **Java Development Kit (JDK) 8 or later** installed  
+  - Any LTS version recommended (e.g., 8, 11, 17, 25)  
+- **Command-line / Terminal** access  
+- Basic familiarity with Java syntax (classes, objects, interfaces)  
+- Optional: IDE like IntelliJ IDEA, Eclipse, or VS Code
 
 ## 📫 Contact
 - **Name:** Ponnarasi Selvaraj  
