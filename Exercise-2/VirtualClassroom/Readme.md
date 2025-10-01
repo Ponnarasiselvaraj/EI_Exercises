@@ -29,7 +29,8 @@ Running `Main.java` produces outputs like:
 
 - **Add Student**
 
-  <img width="450" height="56" alt="image" src="https://github.com/user-attachments/assets/9d74ad89-2433-45c8-9ae1-5230147626b1" />
+  <img width="265" height="56" alt="image" src="https://github.com/user-attachments/assets/1f49a44c-f67d-480c-aab7-43a73313ebae" />
+
 
  
 
