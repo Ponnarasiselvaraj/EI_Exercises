@@ -1,4 +1,4 @@
-package exercise1.structural.decorator;
+package structural.decorator;
 
 public class BaseExam implements OnlineExam {
     @Override
